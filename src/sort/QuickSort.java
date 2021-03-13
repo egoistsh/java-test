@@ -44,6 +44,7 @@ public class QuickSort {
             }
             swap(arr,left,right);
         }
+        System.out.println("ssddfadjkls");
         swap(arr,left,privot);
         return left;
     }
